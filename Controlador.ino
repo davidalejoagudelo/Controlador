@@ -2,7 +2,7 @@
 
 #define BLYNK_TEMPLATE_ID "TMPLWr3cRC-X"
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
-#define BLYNK_AUTH_TOKEN "VxTXFmCytQB3mVpi80GcTqVF62TND4VR"
+#define BLYNK_AUTH_TOKEN ""
 #define BLYNK_PRINT Serial
 
 // Librerías utilizadas
